@@ -18,4 +18,4 @@ This project delves into the exciting domain of AI-powered body language recogni
 ✨ Let’s Collaborate!
 I’d love to hear your thoughts! Whether it’s feedback, feature suggestions, or entirely new use cases, let’s explore these ideas together. Collaborate with me to push the boundaries of what AI-powered body language recognition can achieve. 😊
 
-<img src="https://github.com/iamramzan/P10-AI-Based-Body-Language-Recognition-Using-scikit-learn-OpenCV-and-MediaPipe/blob/main/Body%20Language%20Recognition.png">
+[![P10: AI-Based Body Language Recognition Using scikit-learn, OpenCV, and MediaPipe](https://img.youtube.com/vi/b9LSzIkv3K4/0.jpg)](https://youtu.be/b9LSzIkv3K4)
