@@ -1,4 +1,4 @@
-## P10-AI-Based-Body-Language-Recognition-Using-scikit-learn-OpenCV-and-MediaPipe
+## AI-Based-Body-Language-Recognition-Using-scikit-learn-OpenCV-and-MediaPipe
 
 This project delves into the exciting domain of AI-powered body language recognition, leveraging cutting-edge tools to create a system capable of identifying gestures and interpreting body movements. By integrating powerful libraries like OpenCV, MediaPipe, and scikit-learn, this project demonstrates how machine learning can decode non-verbal communication with precision and efficiency.
 
